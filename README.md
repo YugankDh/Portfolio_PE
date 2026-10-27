@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Deployed URL
-- **Vercel Deployment**: `[https://portfoliope-mocha.vercel.app/]` *(Add your Vercel URL here after deployment)*
+- **Vercel Deployment**: `[[https://portfoliope-mocha.vercel.app/]](https://portfoliope-mocha.vercel.app/)` *(Add your Vercel URL here after deployment)*
 - **GitHub Repository**: [https://github.com/YugankDh](https://github.com/YugankDh)
 - **Quiz App Deployed**: [https://yugankdh.github.io/quiz_app_PE/](https://yugankdh.github.io/quiz_app_PE/)
 - **Reading List App Deployed**: [https://yugankdh.github.io/reading-list-app_PE/](https://yugankdh.github.io/reading-list-app_PE/)

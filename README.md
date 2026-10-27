@@ -12,15 +12,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Dark Mode Preview | Light Mode & Search Preview |
-| :---: | :---: |
-| ![Portfolio Dark Mode](projects/screenshots/dark_mode_preview.png) | ![Portfolio Light Mode](projects/screenshots/light_mode_preview.png) |
-
-*(Take screenshots of your portfolio in dark mode and light mode, and place them in `projects/screenshots/`)*
-
----
 
 ## 🛠️ Actual Tech Stack Only
 - **Structure**: HTML5 (Semantic elements: `header`, `nav`, `main`, `section`, `article`, `footer`)
